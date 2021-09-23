@@ -1,5 +1,7 @@
 # JoinedUp-backend
 
+[![](JoinedUp.gif)]
+
 ## Backend (Flask)
 
 $ git clone [https://github.com/TomNewton1/JoinedUp-backend.git](https://github.com/TomNewton1/JoinedUp-backend.git)
