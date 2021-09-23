@@ -20,4 +20,4 @@ $ flask run
 
 ## Frontend (React)
 
-The frontend repository can be found at: https://github.com/TomNewton1/JoinedUp-frontend/tree/master/src
+The frontend repository can be found at: https://github.com/TomNewton1/JoinedUp-frontend
