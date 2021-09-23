@@ -1,6 +1,6 @@
 # JoinedUp-backend
 
-$ git clone [https://github.com/TomNewton1/JoinedUp-backend.gi](https://github.com/TomNewton1/JoinedUp-backend.git)
+$ git clone [https://github.com/TomNewton1/JoinedUp-backend.git](https://github.com/TomNewton1/JoinedUp-backend.git)
 
 $ cd in to JoinedUp-backend
 
