@@ -24,6 +24,8 @@ $ flask run
 
 The frontend repository can be found at: https://github.com/TomNewton1/JoinedUp-frontend
 
+In a seperate directory clone the repository
+
 $ git clone [https://github.com/TomNewton1/JoinedUp-frontend.git](https://github.com/TomNewton1/JoinedUp-frontend.git)
 
 change in to project directory
