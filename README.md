@@ -39,3 +39,6 @@ $ npm install
 $ npm start
 
 the server will run on port 3000
+
+### Notes/changes to make (since submission):
+- Forgot to validate country code is submited correctly. Would do this by creating an array of country codes and checking if country code submitted is in the array. On the frontend I would provide a dropdown menu of country codes instead of a text input field.  
